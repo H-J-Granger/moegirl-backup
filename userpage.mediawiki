@@ -1,0 +1,309 @@
+{{标题替换|HermioneGranger}}
+{{Toaru top}}
+
+{{-}}
+{{用户信息
+|image=[[File:Transparent_Akkarin.jpg|300px]]
+|本名=不详
+|别号=Hermione
+|活动范围=ACG 圈
+|萌点=[[姐姐]]
+}}
+
+
+== 用户框 ==
+{|
+|-
+| 
+{{用户 B站用户|[https://space.bilibili.com/493653490 HJGranger]}}
+{{用户 网易云音乐|H_J_Granger|1559431194}}
+{{用户 GitHub|H-J-Granger}}
+{{User Moegirl For |year=2021|month=2|day=8}}
+{{User en|2}}
+{{用户 大陆简体}}
+{{User cpp|3}}
+{{User zh}}
+{{User Windows|11}}
+{{用户 Minecraft}}
+{{用户 小编辑}}
+{{用户 东方project|半人半灵|Mirai}} 
+|}
+
+== 简介 ==
+*曾是个 OIer
+*喜欢数学、数据结构，但是不擅长
+*喜欢看轻百合、日常番，不喜欢看战斗番
+*推 Gal
+*父母健在，有妹有房
+*平时打 PvZ 1.0.0.1051 和 Minecraft Java Edition
+*[https://github.com/OI-Wiki/OI-Wiki/ OI-Wiki] 的<del>活跃</del> contributor
+
+{{#vardefine:a|<sup><small>{{color|green|[已看完]}}</small></sup>}}<!--
+-->{{#vardefine:b|<sup><small>{{color|blue|[暂停观看]}}</small></sup>}}<!--
+-->{{#vardefine:c|<sup><small>{{color|#ccc|[放弃观看]}}</small></sup>}}<!--
+-->{{#vardefine:d|<sup><small>{{color|red|[观看中]}}</small></sup>}}<!--
+-->{{#vardefine:e|<sup><small>{{color|red|[高度关注]}}</small></sup>}}<!--
+-->{{#vardefine:f|<sup><small>{{color|blue|[二期预定]}}</small></sup>}}<!--
+-->{{#vardefine:g|<sup><small>{{color|orange|[观看中]}}</small></sup>}}<!--
+-->{{#vardefine:h|<sup><small>{{color|#C0C0C0|[未观看]}}</small></sup>}}<!--
+-->{{#vardefine:i|<sup><small>{{color|#00FFFF|[多周目]}}</small></sup>}}<!--
+-->{{#vardefine:j|<sup><small>{{color|purple|[等待更新]}}</small></sup>}}<!--
+-->{{#vardefine:k|<sup><small>{{color|pink|[等待发布]}}</small></sup>}}
+
+{{Navbox
+|listclass = hlist
+|name      = Navbox/doc
+|title     = 番剧列表
+|group1  = 1999年或更早
+|list1   = [[名侦探柯南]]{{#var:b}} [[新世纪福音战士]]{{#var:a}} [[哆啦A梦]]{{#var:b}} [[新世纪福音战士|The End of Evangelion]]{{#var:a}}
+|group2  = 2000年
+|list2   =
+|group3  = 2001年
+|list3   =
+|group4  = 2002年
+|list4   =
+|group5  = 2003年
+|list5   =
+|group6  = 2004年
+|list6   =
+|group7  = 2005年
+|list7   = 
+|group8  = 2006年
+|list8   = [[凉宫春日的忧郁|凉宫春日的忧郁 2006]]{{#var:h}}
+|group9  = 2007年
+|list9   = [[CLANNAD|Clannad]]{{#var:a}} [[幸运星|幸运☆星]]{{#var:a}}
+|group10 = 2008年
+|list10  = [[魔法禁书目录]]{{#var:a}} [[CLANNAD|Clannad ~After Story~]]{{#var:a}}
+|group11 = 2009年
+|list11  = [[某科学的超电磁炮]]{{#var:a}} [[轻音少女|K-ON!]]{{#var:a}} [[凉宫春日的忧郁|凉宫春日的忧郁 2009]]{{#var:a}}
+|group12 = 2010年
+|list12  = [[轻音少女|K-ON!!]]{{#var:a}} [[缘之空]]{{#var:a}} [[我的妹妹哪有这么可爱！|我的妹妹哪有这么可爱!]]{{#var:b}} [[凉宫春日的消失]]{{#var:a}}
+|group13 = 2011年
+|list13  = [[魔法禁书目录|魔法禁书目录II]]{{#var:a}} [[轻音少女|电影 K-ON!]]{{#var:a}} [[日常(漫画)|日常]]{{#var:b}} [[摇曳百合]]{{#var:a}}
+|group14 = 2012年
+|list14  = [[中二病也要谈恋爱|中二病也要谈恋爱!]]{{#var:a}} [[冰菓]]{{#var:a}} [[恋爱随意链接]]{{#var:a}} [[摇曳百合|摇曳百合♪♪]]{{#var:a}}
+|group15 = 2013年
+|list15  = [[某科学的超电磁炮S]]{{#var:a}} [[魔法禁书目录|魔法禁书目录 剧场版]]{{#var:a}} [[悠哉日常大王]]{{#var:b}} [[境界的彼方]]{{#var:a}} [[中二病也要谈恋爱|小鸟游六花·改～剧场版 中二病也要谈恋爱!～]]{{#var:a}}   [[玉子市场]]{{#var:a}}
+|group16 = 2014年
+|list16  = [[中二病也要谈恋爱|中二病也要谈恋爱!恋]]{{#var:a}} [[玉子市场|玉子爱情故事]]{{#var:a}}
+|group17 = 2015年
+|list17  = [[吹响！上低音号|吹响!上低音号]]{{#var:a}} [[干物妹！小埋|干物妹!小埋]]{{#var:a}} [[境界的彼方|剧场版 境界的彼方 -I'LL BE HERE-]]{{#var:a}} [[摇曳百合|摇曳百合 3☆High!]]{{#var:d}}
+|group18 = 2016年
+|list18  = [[你的名字。]]{{#var:a}} [[吹响吧！上低音号|剧场版 吹响吧!上低音号~欢迎来到北宇治高中吹奏乐部~]]{{#var:a}} [[吹响吧！上低音号|吹响吧!上低音号2]]{{#var:a}}
+|group19 = 2017年
+|list19  = [[小林家的龙女仆]]{{#var:a}} [[埃罗芒阿老师]]{{#var:a}} [[干物妹！小埋|干物妹!小埋R]]{{#var:a}} [[吹响吧！上低音号|剧场版 吹响吧!上低音号~想要传达的旋律~]]{{#var:a}} [[Blend·S]]{{#var:a}} [[末日时在做什么？有没有空？可以来拯救吗？|末日时在做什么?有没有空?可以来拯救吗?]]{{#var:a}}
+|group20 = 2018年
+|list20  = [[魔法禁书目录III]]{{#var:a}} [[中二病也要谈恋爱|剧场版 中二病也要谈恋爱! -Take On Me-]]{{#var:a}} [[利兹与青鸟]]{{#var:h}} [[紫罗兰永恒花园]]{{#var:a}} [[紫罗兰永恒花园|紫罗兰永恒花园 外传 —永远与自动手记人偶—]]{{#var:h}}
+|group21 = 2019年
+|list21  = [[某科学的一方通行]]{{#var:a}} [[天使降临到我身边|天使降临到我身边!]]{{#var:a}} [[天气之子]]{{#var:a}} [[吹响吧！上低音号|剧场版 吹响吧!上低音号~誓言的终章~]]{{#var:a}}
+|group22 = 2020年
+|list22  = [[某科学的超电磁炮|某科学的超电磁炮T]]{{#var:a}} [[魔女之旅]]{{#var:a}}
+|group23 = 2021年
+|list23  = [[LoveLive!Superstar!!/TV动画作品|Lovelive!SuperStar!!1期]]{{#var:b}}
+|group24 = 2022年
+|list24  = [[间谍过家家|间谍过家家第一季]]{{#var:b}} [[孤独摇滚！|孤独摇滚!]]{{#var:a}}
+|group25 = 2023年
+|list25  = [[吹响！上低音号|吹响!上低音号 合奏比赛篇]]{{#var:a}} [[别当欧尼酱了|别当欧尼酱了!]]{{#var:b}}
+|group26 = 2024年
+|list26  = [[吹响！上低音号|吹响!上低音号 三年生篇]]{{#var:a}} [[ATRI -My Dear Moments-]]{{#var:b}}
+}}
+
+{{Navbox
+|listclass = hlist
+|name      = Navbox/doc
+|title     = 漫画列表
+|group1  = 1999年或更早
+|list1   =
+|group2  = 2000年
+|list2   =
+|group3  = 2001年
+|list3   =
+|group4  = 2002年
+|list4   =
+|group5  = 2003年
+|list5   =
+|group6  = 2004年
+|list6   = [[幸运星|幸运☆星]]{{#var:h}}
+|group7  = 2005年
+|list7   = 
+|group8  = 2006年
+|list8   =
+|group9  = 2007年
+|list9   =
+|group10 = 2008年
+|list10  = [[摇曳百合]]{{#var:h}}
+|group11 = 2009年
+|list11  =
+|group12 = 2010年
+|list12  =
+|group13 = 2011年
+|list13  =
+|group14 = 2012年
+|list14  =
+|group15 = 2013年
+|list15  =
+|group16 = 2014年
+|list16  =
+|group17 = 2015年
+|list17  =
+|group18 = 2016年
+|list18  =
+|group19 = 2017年
+|list19  =
+|group20 = 2018年
+|list20  = [[别当欧尼酱了|别当欧尼酱了!]]{{#var:j}} [[孤独摇滚！|孤独摇滚!]]{{#var:j}}
+|group21 = 2019年
+|list21  =
+|group22 = 2020年
+|list22  =
+|group23 = 2021年
+|list23  =
+}}
+
+{{Navbox
+|listclass = hlist
+|name      = Navbox/doc
+|title     = 游戏列表
+|group1  = 1999年或更早
+|list1   =
+|group2  = 2000年
+|list2   =
+|group3  = 2001年
+|list3   =
+|group4  = 2002年
+|list4   =
+|group5  = 2003年
+|list5   =
+|group6  = 2004年
+|list6   = [[CLANNAD|Clannad]]（[[古河渚]]{{#var:b}}）
+|group7  = 2005年
+|list7   = 
+|group8  = 2006年
+|list8   =
+|group9  = 2007年
+|list9   =
+|group10 = 2008年
+|list10  = [[缘之空]]（[[春日野穹]]{{#var:a}}）
+|group11 = 2009年
+|list11  =
+|group12 = 2010年
+|list12  =
+|group13 = 2011年
+|list13  =
+|group14 = 2012年
+|list14  =
+|group15 = 2013年
+|list15  =
+|group16 = 2014年
+|list16  =
+|group17 = 2015年
+|list17  = [[魔女的夜宴]]（[[绫地宁宁]]{{#var:a}} [[椎叶䌷]]{{#var:a}} [[因幡巡|因幡めぐる]]{{#var:b}}）
+|group18 = 2016年
+|list18  = [[千恋万花|千恋 * 万花]]（[[朝武芳乃]]{{#var:a}} [[丛雨]]{{#var:a}} [[常陆茉子]]{{#var:a}}） [[少女领域|少女 * 领域]]（[[大垣日向|大垣ひなた]]{{#var:a}} [[贵船柚子]]{{#var:d}}）
+|group19 = 2017年
+|list19  =
+|group20 = 2018年
+|list20  = [[Riddle Joker]]（[[在原七海]]{{#var:a}} [[三司绫濑|三司あやせ]]{{#var:a}}）
+|group21 = 2019年
+|list21  = [[星光咖啡馆与死神之蝶]]（[[明月栞那]]{{#var:d}}）
+|group22 = 2020年
+|list22  =
+|group23 = 2021年
+|list23  =
+}}
+
+{{Navbox
+|listclass = hlist
+|name      = Navbox/doc
+|title     = 轻小说列表
+|group1  = 1999年或更早
+|list1   =
+|group2  = 2000年
+|list2   =
+|group3  = 2001年
+|list3   = [[冰菓|古典文学社系列]]{{#var:j}}
+|group4  = 2002年
+|list4   =
+|group5  = 2003年
+|list5   = [[凉宫春日系列]]{{#var:b}}
+|group6  = 2004年
+|list6   = [[魔法禁书目录]]{{#var:b}}
+|group7  = 2005年
+|list7   = 
+|group8  = 2006年
+|list8   =
+|group9  = 2007年
+|list9   =
+|group10 = 2008年
+|list10  =
+|group11 = 2009年
+|list11  =
+|group12 = 2010年
+|list12  = [[心灵链环]]{{#var:h}}
+|group13 = 2011年
+|list13  = [[魔法禁书目录|新约 魔法禁书目录]]{{#var:h}}
+|group14 = 2012年
+|list14  = [[境界的彼方]]{{#var:j}}
+|group15 = 2013年
+|list15  = [[埃罗芒阿老师]]{{#var:a}} [[吹响！上低音号|吹响!上低音号]]{{#var:a}}
+|group16 = 2014年
+|list16  = [[末日时在做什么？有没有空？可以来拯救吗？|末日时在做什么?有没有空?可以来拯救吗?]]{{#var:a}} [[魔女之旅]]{{#var:h}}
+|group17 = 2015年
+|list17  =
+|group18 = 2016年
+|list18  = [[末日时在做什么？能不能再见一面？|末日时在做什么?能不能再见一面?]]{{#var:b}}
+|group19 = 2017年
+|list19  =
+|group20 = 2018年
+|list20  = [[二十世纪电气目录]]{{#var:h}}
+|group21 = 2019年
+|list21  =
+|group22 = 2020年
+|list22  = [[魔法禁书目录|创约 魔法禁书目录]]{{#var:h}}
+|group23 = 2021年
+|list23  =
+|group24 = 2022年
+|list24  =
+|group25 = 2023年
+|list25  =
+|group26 = 2024年
+|list26  = [[我的初恋太过羞耻无法对人诉说]]{{#var:j}}
+}}
+
+
+
+
+<!--
+{{Navbox
+|listclass=hlist
+|name  = Navbox/doc
+|title = 番剧列表
+|group1=
+|group2=2010年前<br>及更早
+|list2=[[幸运星]]{{#var:b}}
+|group3=2010年
+|list3=
+|group4=2011年
+|list4=[[摇曳百合]]{{#var:d}}{{#var:g}} • [[我们仍未知道那天所看见的花的名字]]{{#var:a}} • [[魔法少女小圆]]{{#var:a}} • [[日常(漫画)|日常]]{{#var:h}}
+|group5=2012年
+|list5=[[JOJO的奇妙冒险]]{{#var:d}}{{#var:e}} • [[中二病也要谈恋爱]]{{#var:c}}
+|group6=2013年
+|list6=[[悠哉日常大王]]{{#var:d}}<ref>这个番可能会成为我最喜欢的动漫之一，毕竟连op都听上瘾了</ref> • [[向山进发]]{{#var:b}}
+|group7=2014年
+|list7=[[请问您今天要来点兔子吗?]]{{#var:h}}
+|group8=2015年
+|list8=[[干物妹!小埋]]{{#var:a}}
+|group9=2016年
+|list9=[[你的名字]]{{#var:a}} • [[从零开始的异世界生活]]{{#var:h}}
+|group10=2017年
+|list10=[[调教咖啡厅]]{{#var:a}} • [[珈百璃的堕落]]{{#var:a}}
+|group11=2018年
+|list11=[[工作细胞]]{{#var:d}} • [[碧蓝航线]]{{#var:c}} • [[隔壁的吸血鬼美眉|邻家索菲]]{{#var:a}} • [[魔法少女网站]]{{#var:a}}<ref>这个番的一些人物很反感（尤其是朝雾要）{{黑幕|如果这个番最后不是好结局估计我要打个两星}}</ref>
+|group12=2019年
+|list12=[[天使降临到我身边]]{{#var:a}}{{#var:i}}<sup><small>{{color|blue|[剧场版预定]}}</small></sup><ref>本人最喜欢的动漫</ref> • [[天气之子]]{{#var:b}} • [[辉夜大小姐想让我告白]]{{#var:h}}
+|group13=2020年
+|list13=[[恋爱小行星]]{{#var:d}} • [[总之就是非常可爱]]{{#var:a}}
+|group14=2021年
+|list14=[[工作细胞black]]{{#var:d}} • [[碧蓝航线_微速前行]]{{#var:d}}
+}}
+-->
